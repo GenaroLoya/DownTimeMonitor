@@ -1,0 +1,16 @@
+{
+  "name": "downtimemonitor",
+  "version": "1.0.0",
+  "description": "Monitor for check availability of any web sites",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo dev",
+    "start": "turbo start"
+  },
+  "workspaces": [
+    "apps/*"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
